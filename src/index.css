@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+ 
+}
+#product::-webkit-scrollbar {
+ display: none;
+}
+#cart::-webkit-scrollbar {
+ display: none;
+}
